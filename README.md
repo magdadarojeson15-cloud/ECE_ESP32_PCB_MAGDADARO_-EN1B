@@ -5,7 +5,8 @@ My project in ENPHY-2
 Simple LED Control PCB
 
 ## Project Description
-A simple PCB designed to control an LED using a push button and resistor.
+
+This project focuses on designing and developing a printed circuit board (PCB) using EasyEDA. It includes the complete schematic, PCB layout, 3D view, source files, and Gerber files required for fabrication..
 
 ## Features
 - LED ON/OFF control
