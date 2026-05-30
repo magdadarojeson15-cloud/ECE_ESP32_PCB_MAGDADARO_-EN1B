@@ -20,7 +20,7 @@ A simple PCB designed to control an LED using a push button and resistor.
 
 ## Software Used
 - EasyEDA
-- Arduino ID
+- Arduino IDE
 
 ## Author Name
 Jeson Magdadaro
