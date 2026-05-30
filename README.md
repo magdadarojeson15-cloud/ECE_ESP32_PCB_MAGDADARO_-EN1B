@@ -12,13 +12,14 @@ A simple PCB designed to control an LED using a push button and resistor.
 - Compact PCB layout
 - Easy to manufacture
 
-## Components Used
-- LED
+##🔘 Components Used
+- LED 
 - Push Button
 - 220Ω Resistor
 - Battery Connector
+- Jumper wires
 
-## Software Used
+##💻 Software Used
 - EasyEDA
 - Arduino IDE
 
